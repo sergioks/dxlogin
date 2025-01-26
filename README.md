@@ -24,5 +24,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <div id="user-content-toc">
-  <ul align="center"> <summary><h1 style="display: inline-block" href="https://community.multitheftauto.com/index.php?p=resources&s=details&id=13873">DESCARGA AQUI</h1></summary></ul>
+  <ul align="center"> <summary><h1 style="display: inline-block">DESCARGA EL SCRIPT ACÁ</h1></summary><p style="font-size: 0.4em; text-align: left;">En la 'webpage' del repositorio se encuentra el link directo al post de comunidad</p> </ul>
 </div>
