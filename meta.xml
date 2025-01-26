@@ -1,0 +1,12 @@
+<meta>
+	<info author="Sergioks" name="Tutorial: dxLogin - Public" type="script" version="1.0" />
+	
+	<script src="dxGUI.lua" type="client" />
+	<script src="dxFunc.lua" type="client" />
+	<script src="dxUtils.lua" type="client" />
+	<script src="sFunc.lua" type="server" />
+	
+	<aclrequest>
+		<right name="function.addAccount" access="true" />
+	</aclrequest>
+</meta>
