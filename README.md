@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <!-- x -->
 <div id="user-content-toc">
-  <ul align="center"> <summary><h1 style="display: inline-block"><i>BASIC</i> Login System👋</h1></summary><p style="font-size: 0.4em; text-align: left;">Maked with dxDraw functions</p> </ul>
+  <ul align="center"> <summary><h1 style="display: inline-block">Panel de Login <b><i>BASICO</i></b></h1></summary><p style="font-size: 0.4em; text-align: left;">Realizado unicamente con funciones <i>dxDraw</i></p> </ul>
   <img  src="https://i.gyazo.com/ab48700f96fd4d90f058cef85b710334.png" alt="snake" /></a>
 </div>
 <br/>
@@ -13,3 +13,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+<div id="user-content-toc">
+  <ul align="left"> <summary><h2 style="display: inline-block">Acerca de este script</h2></summary> </ul>
+  <li>🧑🏻‍💻 Script publicado inicialmente en la comunidad en 2018, republicado aca para liberar codigo</li>
+  <li>💻 Sistema básico de inicio de sesion y creacion de cuenta en una unica interfaz</li>
+  <li>🎮 El sistema solo existe como pequeño aporte con fines de ser mejorado o adaptado a gusto</li>
+</div>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<div id="user-content-toc">
+  <ul align="center" href="https://community.multitheftauto.com/index.php?p=resources&s=details&id=13873"> <summary><h1 style="display: inline-block">DESCARGA AQUI</h1></summary></ul>
+</div>
